@@ -19,7 +19,7 @@ Passionate Front-end and WordPress developer with a flair for creating visually 
 <h2>Certifications 🎓</h2>
 <ul>
   <li><b><a href="">Front-end Developer - Creative Hub</a></b></li>
-  <li><b><a href="">Certificate of Appreciation - Creative Hub</a></b></li>
+  <li><b><a href="https://drive.google.com/drive/u/1/home">Certificate of Appreciation - Creative Hub</a></b></li>
   <li><b><a href="">Wordpress Developer - Netting Schools</a></b></li>
   
 </ul>
