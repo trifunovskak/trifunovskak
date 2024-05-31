@@ -8,9 +8,10 @@ Passionate Front-end and WordPress developer with a flair for creating visually 
 <ul>
   <li><b>React</li></li>
   <li><b>JavaScript</li></li>
-  <li><b>HTML, CSS, Bootstrap </b><br /></li>
+  <li><b>HTML, CSS, Bootstrap </b><br/></li>
   <ul>
     <li><b><a href="https://github.com/trifunovskak/first-HTML-project">Data Analytics - Landing Page CH (Class Project)</a></b></li>
+    <li><b><a href="https://github.com/trifunovskak/zdruzenie-na-muzichari">Association of Musicians Landing Page</a></b></li>
   </ul>
 </ul>
     
@@ -20,7 +21,7 @@ Passionate Front-end and WordPress developer with a flair for creating visually 
 <ul>
   <li><b><a href="">Front-end Developer - Creative Hub</a></b></li>
   <li><b><a href="https://drive.google.com/file/d/1FUK2M1CpWjMIJe_XoWzFOM2_9D0jPFMK/view?usp=drive_link">Certificate of Appreciation - Creative Hub</a></b></li>
-  <li><b><a href="">Wordpress Developer - Netting Schools</a></b></li>
+  <li><b><a href="https://github.com/trifunovskak/zdruzenie-na-muzichari">Wordpress Developer - Netting Schools</a></b></li>
   
 </ul>
 
